@@ -1,0 +1,5 @@
+{
+  "name": "KenDataViz - 圖表視覺化工具",
+  "description": "A powerful, client-side data visualization and analysis tool. Upload Excel or CSV files to generate instant insights, statistics, and interactive charts.",
+  "requestFramePermissions": []
+}
